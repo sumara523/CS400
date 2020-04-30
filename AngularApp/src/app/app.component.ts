@@ -7,6 +7,6 @@ import data from './data.json'
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'myapp';
+  title = 'AngularApp';
   public catFacts:{text:string}[] = data;
 }
